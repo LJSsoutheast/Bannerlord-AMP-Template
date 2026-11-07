@@ -1,0 +1,12 @@
+[
+  {
+    "Protocol": "UDP",
+    "Port": 4200,
+    "Offset": 0,
+    "Range": 1,
+    "Ref": "ApplicationPort1",
+    "Name": "Co-op Join Port",
+    "Description": "UDP port used by Bannerlord Co-op players",
+    "ChildPorts": null
+  }
+]
